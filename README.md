@@ -18,5 +18,5 @@ You are all set to go. Open the terminal and write `npm start` and hopefully eve
 
 ## Step 5
 
-If you face any issues connect with me on instagram / youtube comments. Instagram Id: [https://instagram.com/anotherwebguy](https://instagram.com/anotherwebguy).
-[Youtube](https://youtube.com/c/anotherwebguy).
+If you face any issues connect with me on instagram / youtube comments. Instagram Id: [Click here for Instagram](https://instagram.com/anotherwebguy).
+[Click here for Youtube](https://youtube.com/c/anotherwebguy).

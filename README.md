@@ -6,7 +6,7 @@ Either clone the repository or download the zip file.
 
 ## Step 2
 
-Open the terminal, go into the root folder (which is _newsletterdemo_ in this case), and run `npm install`. This will install all the dependencies for the project
+Open the terminal, go into the root folder (which is _newsletter-main_ in this case), and run `npm install`. This will install all the dependencies for the project
 
 ## Step 3
 
